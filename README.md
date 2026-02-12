@@ -1,4 +1,3 @@
-es_webcheck
-===========
+# es_webcheck [DEPRECATED]
 
 Webmonotoring for Contao
